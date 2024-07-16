@@ -1,2 +1,3 @@
 # Car-Parking-Space-Counter
-![Uploading Ekran Alıntısı.PNG…]()
+![Ekran Alıntısı](https://github.com/user-attachments/assets/f0c2181c-4e20-4cfc-bd2b-6474e2257904)
+
